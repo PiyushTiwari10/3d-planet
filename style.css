@@ -64,4 +64,10 @@ ul {
        width: 200px; /* Adjust width for mobile view */
        font-size: 3rem; /* Adjust font size for mobile view */
    }
+
+   .box{
+      position: absolute;
+      top: 10%;
+      left: 6%;
+   }
 }
