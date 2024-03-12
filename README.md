@@ -13,3 +13,4 @@ Realistic Lighting: Utilizing advanced lighting techniques to create realistic d
 Interactive Experience: Interact with the planet through intuitive controls, allowing users to zoom, rotate, and explore every corner.
 
  
+![Screenshot 2024-03-12 123814](https://github.com/PiyushTiwari10/3d-planet/assets/143063765/d5a4e077-309a-4a02-8cb8-5dac5d136f56)
