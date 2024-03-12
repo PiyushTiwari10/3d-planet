@@ -14,3 +14,5 @@ Interactive Experience: Interact with the planet through intuitive controls, all
 
  
 ![Screenshot 2024-03-12 123814](https://github.com/PiyushTiwari10/3d-planet/assets/143063765/d5a4e077-309a-4a02-8cb8-5dac5d136f56)
+
+![Screenshot 2024-03-12 123825](https://github.com/PiyushTiwari10/3d-planet/assets/143063765/ba93a171-5288-40f4-9fa8-dcd10764cd10)
