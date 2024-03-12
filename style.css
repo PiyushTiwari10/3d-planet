@@ -1,0 +1,59 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ }
+.webgl{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+    z-index: 1;
+}
+.nav{
+    color: white;
+    z-index: 2;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+    font-size: large;
+    font-weight: bolder;
+    user-select: none;
+    pointer-events: none;
+}
+
+ header{
+    padding-left: 47%;
+    padding-top:22rem;
+  
+ }
+
+ul{
+    display: flex;
+    gap:4rem;
+    list-style-type:none;
+    
+}
+ .textbox{
+    z-index: 2;
+    position: relative;
+    color:white;
+    height: 400px;
+    width: 300px;
+    /* background-color: blue; */
+    font-size: 5rem;
+    display:flex;
+    align-items: center;
+    user-select: none;
+    pointer-events: none;
+   
+    
+ }
+ .box{
+    position: absolute;
+    top: 30%;
+    left:6%
+ }
+ 
